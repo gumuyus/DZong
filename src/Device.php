@@ -16,4 +16,7 @@ class Device{
 	public function del() {
 		echo "00009uorewiui";
 	}
+	public function sd(){
+		echo "sdddd";
+	}
 }
