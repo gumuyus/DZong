@@ -8,7 +8,7 @@ class Device{
 		echo  "This is show";
 	}
 	public function s(){
-		echo "demo . s";
+		echo "demo . s ss";
 	}
 	public function dd() {
 		echo "ddd";
