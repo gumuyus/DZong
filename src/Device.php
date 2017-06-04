@@ -7,4 +7,7 @@ class Device{
 	public function show() {
 		echo  "This is show";
 	}
+	public function dd() {
+		echo "ddd";
+	}
 }
