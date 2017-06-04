@@ -8,9 +8,12 @@ class Device{
 		echo  "This is show";
 	}
 	public function s(){
-		echo "demo . s ss";
+		echo "demo . s ss ---_kk";
 	}
 	public function dd() {
 		echo "ddd";
+	}
+	public function del() {
+		echo "00009uorewiui";
 	}
 }
